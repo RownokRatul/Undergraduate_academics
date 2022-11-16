@@ -27,3 +27,22 @@
 
 - **`Term Project`**
   - [Non-invasive Mechanical Ventilator](https://github.com/TokiTahmid64/NON-INVASIVE-MECHANICAL-VENTILATOR)
+
+<h1 align="center"> <b> <code> L2/T2 </code> </b> </h1>
+<hr/>
+
+## **`CSE 208` : Data Structures and Algorithms II Sessional**
+
+- [Implemented Algorithms and Data Structures](https://github.com/RownokRatul/DataStructures_Algorithms_codeLibrary)
+
+## **`CSE 216` : Database Sessional**
+
+- **`Term Project`**
+
+  [Bookworms - A community for book lovers](https://github.com/RownokRatul/BookWorms_L2_T2_TermProject)
+
+
+
+
+
+
