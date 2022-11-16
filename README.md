@@ -2,9 +2,9 @@
 
 - **Academic Terms**
   - [**L3**/*T1*](#cse-310--Compiler-sessional)
-  - [**L2**/*T2*](#cse-208--data-structures-and-algorithms-ii-sessional)
+  - [**L2**/*T2*](#cse-208--Data-structures-and-Algorithms-ii-sessional)
   - [**L2**/*T1*](#cse-218--Numerical-Methods)
-  - [**L1**/*T2*](#cse-108--object-oriented-programming-language-sessional)
+  - [**L1**/*T2*](#cse-108--Object-Oriented-Programming-Language-sessional)
   - [**L1**/*T1*](#cse-102--structured-programming-language-sessional)
 
 - **Extra Stuffs** 
