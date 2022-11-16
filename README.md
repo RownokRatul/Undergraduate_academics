@@ -3,16 +3,12 @@
 - **Academic Terms**
   - [**L3**/*T1*](#cse-310--Compiler-sessional)
   - [**L2**/*T2*](#cse-208--data-structures-and-algorithms-ii-sessional)
-  - [**L2**/*T1*](#cse-204--data-structures-and-algorithms-i-sessional)
+  - [**L2**/*T1*](#cse-218--Numerical-Methods)
   - [**L1**/*T2*](#cse-108--object-oriented-programming-language-sessional)
-  - [**L1**/*T1*](#cse-102--structured-programming-language)
+  - [**L1**/*T1*](#cse-102--structured-programming-language-sessional)
 
 - **Extra Stuffs** 
   - *Code*
-    - [*`Balanced Binary Search Trees`*]() *(2-2)*
-    - [*`Dockerizing Oracle`*]() *(2-2)*
-    - [*`ATmega32 GPS interfacing`*]() *(3-1)*
-    - [*`A Compiler Web App to demonstrate CI-CD pipeline using GitHub Actions`*]() *(3-1)*
 
 <h1 align="center"> <b> <code> L3/T1 </code> </b> </h1>
 <hr/>
@@ -42,7 +38,26 @@
   [Bookworms - A community for book lovers](https://github.com/RownokRatul/BookWorms_L2_T2_TermProject)
 
 
+<h1 align="center"> <b> <code> L2/T1 </code> </b> </h1>
+<hr/>
+
+## **`CSE 218` :  Numerical Methods**
+
+- [Implemented Methods & Algorithms](https://github.com/RownokRatul/numerical_methods_CSE218)
+
+<h1 align="center"> <b> <code> L1/T2 </code> </b> </h1>
+<hr/>
+
+## **`CSE 108` : Object Oriented Programming Language Sessional**
+
+- **`Term Project`**
+  - [Car Warehouse Database System](https://github.com/RownokRatul/CarWareHouseDatabaseSystem_L1_T2_termProject)
 
 
+<h1 align="center"> <b> <code> L1/T1 </code> </b> </h1>
+<hr/>
 
-
+## **`CSE 102` : Structured Programming Language** 
+- **`Term Project`** 
+  
+  [Archery](https://github.com/RownokRatul/Archery_L1_T1_termProject)
