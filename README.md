@@ -1,7 +1,7 @@
 # **`Table of Content`**
 
 - **Academic Terms**
-  - [**L3**/*T1*](#cse-306--computer-architecture-sessional)
+  - [**L3**/*T1*](#cse-310--Compiler-sessional)
   - [**L2**/*T2*](#cse-208--data-structures-and-algorithms-ii-sessional)
   - [**L2**/*T1*](#cse-204--data-structures-and-algorithms-i-sessional)
   - [**L1**/*T2*](#cse-108--object-oriented-programming-language-sessional)
@@ -16,3 +16,7 @@
 
 <h1 align="center"> <b> <code> L3/T1 </code> </b> </h1>
 <hr/>
+
+## **`CSE 310` : Compiler Sessional**
+
+- [A rigorous and frivolous C compiler](https://github.com/RownokRatul/C_compiler_CSE310)
