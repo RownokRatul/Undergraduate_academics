@@ -20,3 +20,10 @@
 ## **`CSE 310` : Compiler Sessional**
 
 - [A rigorous and frivolous C compiler](https://github.com/RownokRatul/C_compiler_CSE310)
+
+## **`CSE 316` : Microprocessors,Microcontrollers and Embedded Systems Sessional**
+- **`8086 Assembly`**
+  - [Assembly stuffs](https://github.com/RownokRatul/8086_assembly_stuff_CSE316)
+
+- **`Term Project`**
+  - [Non-invasive Mechanical Ventilator](https://github.com/TokiTahmid64/NON-INVASIVE-MECHANICAL-VENTILATOR)
