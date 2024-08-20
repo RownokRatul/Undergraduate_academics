@@ -1,9 +1,9 @@
 # **`Table of Content`**
 
 - **Academic Terms**
-  - [**L4**/*T2*](#cse-310--Compiler-sessional)
-  - [**L4**/*T1*](#cse-310--Compiler-sessional)
-  - [**L3**/*T2*](#cse-310--Compiler-sessional)
+  - [**L4**/*T2*](#cse-462--Algorithm-Engineering)
+  - [**L4**/*T1*](#cse-406--Computer-Security)
+  - [**L3**/*T2*](#cse-314--Operating-Systems)
   - [**L3**/*T1*](#cse-310--Compiler-sessional)
   - [**L2**/*T2*](#cse-208--Data-structures-and-Algorithms-ii-sessional)
   - [**L2**/*T1*](#cse-218--Numerical-Methods)
@@ -47,14 +47,14 @@
 <h1 align="center"> <b> <code> L3/T2 </code> </b> </h1>
 <hr/>
 
-## **`CSE 322` : Computer Networking**
-- **`Term Project`**
-- [Intelligent Adaptive PI controlled Active Queue Management](https://github.com/RownokRatul/IAPI_ns2_term_project_CSE322/tree/main)
-
 ## **`CSE 314` : Operating Systems**
 - [Inter-process Communication: Locks and Zemaphores](https://github.com/RownokRatul/IPC_CSE_314)
 - **`Term Project`**
 - [XV6 Memory Management: Paging, Swapping and CoW(Copy on Write)](https://github.com/RownokRatul/xv6_memory_management_CSE_314)
+
+## **`CSE 322` : Computer Networking**
+- **`Term Project`**
+- [Intelligent Adaptive PI controlled Active Queue Management](https://github.com/RownokRatul/IAPI_ns2_term_project_CSE322/tree/main)
 
 ## **`CSE 308` : Information System Design**
 - **`Term Project`**
